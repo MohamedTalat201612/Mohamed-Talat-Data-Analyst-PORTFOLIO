@@ -6,7 +6,7 @@ Welcome to my data analyst portfolio. This repository showcases a range of proje
 ## Projects
 
 ### Excel Projects
-- **[Sales Dashboard](excel-projects/sales_dashboard.xlsx)**
+- **[Sales Dashboard]([excel-projects/sales_dashboard.xlsx](https://github.com/MohamedTalat201612/Mohamed-Talat-Data-Analyst-PORTFOLIO/blob/main/Mohamed%20Talat%20Excel%20Project%20Dataset.xlsx))**
   - **Objective:** Create a sales dashboard to visualize key metrics and trends.
   - **Description:** This Excel file includes various sheets for sales data analysis, pivot tables, and charts.
 
