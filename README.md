@@ -6,7 +6,7 @@ Welcome to my data analyst portfolio. This repository showcases a range of proje
 ## Projects
 
 ### Excel Projects
-- **[Sales Dashboard]([excel-projects/sales_dashboard.xlsx](https://onedrive.live.com/edit.aspx?resid=1cc55e6782a49941!7906))**
+- **[Sales Dashboard]([excel-projects/sales_dashboard.xlsx])**
   - **Objective:** Create a sales dashboard to visualize key metrics and trends.
   - **Description:** This Excel file includes various sheets for sales data analysis, pivot tables, and charts.
 
