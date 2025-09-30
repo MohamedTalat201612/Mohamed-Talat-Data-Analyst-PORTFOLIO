@@ -30,7 +30,7 @@ The goal was to clean and process raw data, build a structured data model, creat
 ![Requirements](Requirement.png)  
 ![Stakeholders](Stakeholders.png)  
 ![Steps in Project](Steps%20in%20Project.png)  
-![Dashboard Screenshot](Power BI Project End to End  Dashboard  Beginners  Power BI Tutorial 2023.png)  
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
